@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mserbout&label=Profile%20views&color=0e75b6&style=flat" alt="mserbout" /> </p>
 
-- 🔭 I’m currently Computer Engineering At Universidad de Malaga **.**
+- 🔭 I’m currently Studying Computer Engineering At Universidad de Malaga **.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
